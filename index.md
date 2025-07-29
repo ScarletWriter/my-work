@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome!
+# Hello World!
 
-This is my first Jekyll website using the Minima theme.
+This site is now using the **Minima** Jekyll theme! 🎉
