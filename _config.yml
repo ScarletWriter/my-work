@@ -1,45 +1,4 @@
 # Site settings
 title: My Awesome Site
-description: A simple blog created with Jekyll and GitHub Pages.
-author: Your Name
-email: your@email.com
-
-# Your GitHub username (important for correct site URL)
-url: "https://yourusername.github.io"
-baseurl: ""  # Leave blank unless your repo is not your GitHub Pages repo
-
-# Remote theme (easy, no need to install anything)
+description: this is not good thing 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
-
-# Plugins - only safe plugins allowed by GitHub Pages
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-# Optional settings (for blog-style layout)
-paginate: 5
-paginate_path: /page:num/
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Social media (optional)
-social_links:
-  - label: "GitHub"
-    url: "https://github.com/yourusername"
-  - label: "Twitter"
-    url: "https://twitter.com/yourusername"
-
-# Google Analytics (optional)
-google_analytics: ""
-
-# Footer (optional)
-footer:
-  links:
-    - title: GitHub
-      url: https://github.com/yourusername
-    - title: Contact
-      url: mailto:your@email.com
