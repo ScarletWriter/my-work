@@ -1,4 +1,4 @@
 title: scarlet
 description: tech writer
 # show_downloads: true
-theme: jekyll-theme-Documentation
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
