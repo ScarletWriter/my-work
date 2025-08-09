@@ -1,4 +1,5 @@
-i did not install anything  
-its totally wrong   
-
-<img width="197" height="306" alt="image" src="https://github.com/user-attachments/assets/0c7a7827-402e-4f40-87af-67d88db39605" />
+# Responsive documentation  
+Focus on writing good documentation. Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub pages.  
+1. UI UX design  
+2. FRONT-END  
+3. BACK-END
