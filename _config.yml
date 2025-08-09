@@ -1,3 +1,3 @@
 title: My Awesome Site
-description: this is not good thing 
-theme: minimal
+description: A simple site using Jekyll
+theme: jekyll-theme-cayman
