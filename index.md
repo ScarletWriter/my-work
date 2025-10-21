@@ -6,15 +6,15 @@ Skylark is an project management tool designed to help teams plan, track and man
 </p>
 
 To create a new task,
-1. open your Project Dashboard in Skylark.  
-2. click **Add task**  
-3. fill in the task details:  
+1. Open your Project Dashboard in Skylark.  
+2. Click **Add task**  
+3. Fill in the task details:  
    - Task tittle
    - Description
    - Start Date/Due Date
    - Priority
    - Attachment
-4. click **Create Task**.
+4. Click **Create Task**.
 
  
 
