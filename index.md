@@ -17,7 +17,7 @@ To create a new task,
 4. click **Create Task**.
 
  
-![Screenshot 2025-10-21 110618](https://github.com/user-attachments/assets/0e30aeaf-7fb0-478d-8cd6-63c11b2ce750)  
+ 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e30aeaf-7fb0-478d-8cd6-63c11b2ce750" alt="Screenshot 2025-10-21 110618" />
 </p>
@@ -26,9 +26,4 @@ To create a new task,
  
 
 
-![Screenshot 2025-10-21 113806](https://github.com/user-attachments/assets/859f013c-503c-445a-8fac-af7ad393eb2f)  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/859f013c-503c-445a-8fac-af7ad393eb2f" alt="Screenshot 2025-10-21 113806" />
-</p>
 
