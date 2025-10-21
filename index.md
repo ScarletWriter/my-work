@@ -9,11 +9,11 @@ To create a new task,
 1. Open your Project Dashboard in Skylark.  
 2. Click **Add task**  
 3. Fill in the task details:  
-   - Task tittle: A short name 
-   - Description: Explain the purpose or requirements.
-   - Start Date/Due Date: Timeline for task completion.
-   - Priority: Select Low, Meddium, or High.
-   - Attachment: Upload Files or documents related to the task.
+   - **Task tittle:** A short name 
+   - **Description:** Explain the purpose or requirements.
+   - **Start Date/Due Date:** Timeline for task completion.
+   - **Priority:** Select Low, Meddium, or High.
+   - **Attachment:** Upload Files or documents related to the task.
 4. Click **Create Task**.
 
  
