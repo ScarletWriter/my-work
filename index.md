@@ -17,6 +17,8 @@ To create a new task,
    - **Attachment:** Upload Files or documents related to the task.
 4. Click **Create Task**.
 
+Once a task is created, it needs to be **assigned** to a specific team member. The **Assign Task** define who is responsible for completing the work
+
  
 
 
