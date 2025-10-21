@@ -15,7 +15,7 @@ To create a new task,
    - Priority
    - Attachment
 4. click **Create Task**.
-5. 
+ 
 
       
  
