@@ -12,7 +12,9 @@ To create a new task,
    - Start Date/Due Date
    - Priority
    - Attachment
-4. click **Create Task**. 
+4. click **Create Task**.
+5. 
 
       
+![Screenshot 2025-10-21 110618](https://github.com/user-attachments/assets/37389c24-6d76-4dd4-ae00-5361836408d2)
 
