@@ -17,7 +17,6 @@ To create a new task,
 4. click **Create Task**.
 
  
- 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e30aeaf-7fb0-478d-8cd6-63c11b2ce750" alt="Screenshot 2025-10-21 110618" />
 </p>
