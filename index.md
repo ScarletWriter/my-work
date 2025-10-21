@@ -19,6 +19,6 @@ To create a new task,
 ![Screenshot 2025-10-21 110618](https://github.com/user-attachments/assets/37389c24-6d76-4dd4-ae00-5361836408d2)  
 
 <p align=center>
-<img src=https://github.com/user-attachments/assets/37389c24-6d76-4dd4-ae00-5361836408d2 width=800 height=350
+<img src=https://github.com/user-attachments/assets/37389c24-6d76-4dd4-ae00-5361836408d2
 </p>
 
