@@ -19,7 +19,9 @@ To create a new task,
    - Priority
    - Attachment
 4. click **Create Task**.
+5. 
  
+![Screenshot 2025-10-21 110618](https://github.com/user-attachments/assets/0e30aeaf-7fb0-478d-8cd6-63c11b2ce750)
 
       
  
