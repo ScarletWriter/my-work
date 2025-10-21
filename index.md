@@ -1,7 +1,15 @@
-# Responsive documentation  
-Focus on writing good documentation. Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub pages.  
-1. UI UX design  
-2. FRONT-END  
-3. BACK-END
+# Skylark - creating Task 
+Skylark is an project management tool designed to help teams plan, track and manage projects. It enables collaboration between departments,ensure timely task completion, and gives project managers a clear view of project progress. The **Add Task** and **Assign Task** helps you to break down a project into smaller, manageable chunks.     
+To create a new task,
+1. open your roject Dashboard in Skylark.  
+2. click **Add task**  
+3. fill in the task details:  
+   - Task tittle
+   - Description
+   - Start Date/Due Date
+   - Priority
+   - Attachment
+4. click **Create Task. 
+
       
 <img width="446" height="188" alt="Screenshot 2025-07-06 215824" src="https://github.com/user-attachments/assets/e3cea248-20da-4dbf-801a-72517d776e06" />
